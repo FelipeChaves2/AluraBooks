@@ -27,6 +27,9 @@
     font-size: 14px;
     font-weight: 700;
 }
+.topicos {
+        padding: 1em 15vw;
+}
 
 @media screen and (min-width: 1024px) {
     .tópicos__titulo {
